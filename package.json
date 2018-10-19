@@ -17,6 +17,13 @@
     "verbosity"
   ],
   "author": "Christophe Porteneuve <christophe@delicious-insights.com> (https://delicious-insights.com/)",
+  "contributors": [
+    {
+      "name": "ridermansb",
+      "email": "ridermansb@gmail.com",
+      "url": "https://github.com/ridermansb"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/jest-community/jest-watch-toggle-coverage/issues"
   },
