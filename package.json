@@ -25,12 +25,12 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/jest-community/jest-watch-toggle-coverage/issues"
+    "url": "https://github.com/Ridermansb/jest-watch-toggle-coverage/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com/jest-community/jest-watch-toggle-coverage"
+    "url": "git@github.com:Ridermansb/jest-watch-toggle-coverage.git"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
