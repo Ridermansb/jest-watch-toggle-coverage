@@ -71,6 +71,9 @@
     ]
   },
   "jest": {
+    "watchPlugins": [
+      "./src/index"
+    ],
     "transform": {
       "^.+\\.jsx$": "babel-jest",
       "^.+\\.js$": "babel-jest"
